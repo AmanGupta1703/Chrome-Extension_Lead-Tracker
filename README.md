@@ -1,3 +1,3 @@
-#Scrimba
+##Scrimba
 
-#Chrome Extension JS
+Chrome Extension JS
